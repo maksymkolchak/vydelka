@@ -1,0 +1,12 @@
+{
+  "name": "vydelka",
+  "id": "6462687",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "maksmaks",
+    "id": "2250571"
+  }
+}
